@@ -1,6 +1,7 @@
-package Ch_01;
+package CH01;
 
-public class EX_03 {
+public class EX01_03 {
+    
     public static void main(String[]args){
         System.out.println("   J     A    V     V    A");
         System.out.println("   J    A A    V   V    A A");
